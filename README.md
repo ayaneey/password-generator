@@ -6,4 +6,11 @@ I had to create a password generator that can generate random passwords which in
 
 ![Password Generator ](https://user-images.githubusercontent.com/108099259/180057390-33ff1982-09ea-4d6f-8ce3-4854cd187b8f.jpg)
 
+### Technologies
+- JavaScript
 
+
+#### Github repository
+<b>Github username: ayaneey/password-generator
+<br>
+<b>Github URL:https://github.com/ayaneey/password-generator

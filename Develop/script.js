@@ -2,7 +2,7 @@
 var generateBtn = document.querySelector("#generate");
 
 function randomInt(min, max) {
-  if (max) {
+  if (!max) {
     max = min;
     min = 0;
   }
@@ -11,7 +11,7 @@ function randomInt(min, max) {
 }
 
 function getRandomItem(list) {
-  return list[randomInt(0, list.length - 1)];
+  return list[randomInt(list.length)];
 }
 
 function generatePassword() {

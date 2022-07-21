@@ -4,8 +4,12 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Password Generator</title>
+<<<<<<< HEAD:Develop/index.html
+    <link rel="stylesheet" type="text/css" href="./style/style.css" />
+=======
     <link rel="stylesheet" type="text/css" href="./style.css" />
+>>>>>>> 412e985eb9e012b2b223d16b361b831e63c45862:index.html
+    <title>Password Generator</title>
   </head>
   <body>
     <div class="wrapper">
